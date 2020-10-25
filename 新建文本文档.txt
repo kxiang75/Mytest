@@ -1,0 +1,5 @@
+insert into  user values('1','马老板','123',
+    '2','歪嘴战神','123',
+  '3','王炸','123');
+  
+  https://portal-cn.netacad.com/  思科登录网
